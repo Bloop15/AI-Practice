@@ -1,2 +1,2 @@
-# AIML-Lab  Practice Programs
-AIML programs taught in college
+# AIPractice Programs
+Some random AI programs taught in college
